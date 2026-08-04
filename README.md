@@ -42,6 +42,12 @@
 
 ###
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Cmeptnuk&theme=dracula&hide_border=true&area=true" alt="Activity Graph" />
+</p>
+
+###
+
 <div align="center" style="margin-top: 20px;">
   <a href="https://t.me/creatorfromvoid" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
