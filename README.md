@@ -1,8 +1,8 @@
-<p align="center" style="margin-bottom: -10px;">
+<p align="center" style="margin-bottom: -15px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" alt="Typing Effect" />
 </p>
 
-<p align="center" style="margin-top: 0px; margin-bottom: 10px;">
+<p align="center" style="margin-top: 0px; margin-bottom: 15px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" alt="divider" />
 </p>
 
@@ -37,7 +37,7 @@
   <a href="https://storybook.js.org/" target="_blank">
     <img src="https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
   </a>
-  <a href="https://git-scm.com/" target="_blank">
+  <a href="https://git-src.com/" target="_blank">
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   </a>
 </div>
