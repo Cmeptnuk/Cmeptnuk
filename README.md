@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=line&color=ffffff&height=10&section=header" width="300" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=ffffff&height=2&section=header" width="400" alt="divider" />
 </p>
 
 <div align="center">
