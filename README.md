@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Line.svg" width="400" alt="divider" />
+  <img src="https://user-images.githubusercontent.com/74038190/221352945-0d181d09-cd48-4e5e-8483-36cbcf9b6624.gif" width="300" alt="divider" />
 </p>
 
 <div align="center">
