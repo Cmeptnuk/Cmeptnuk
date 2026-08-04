@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%26+Python+Enthusiast;Building+modern+web+applications" alt="Typing Effect" />
 </p>
 
 ###
