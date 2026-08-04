@@ -1,4 +1,4 @@
-<h1 align="center">stokeyer</h1>
+<h1 align="center">Cmeptnuk</h1>
 
 <p align="center">
   Frontend Developer & Python Enthusiast
@@ -45,7 +45,7 @@
 ###
 
 <div align="center" style="margin-top: 20px;">
-  <a href="https://t.me/creat1vv" target="_blank">
+  <a href="https://t.me/creatorfromvoid" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
