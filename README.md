@@ -1,12 +1,11 @@
-<div align="center" style="margin-bottom: -15px;">
+<div align="center" style="margin-bottom: 25px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" />
 </div>
 
-<div align="center" style="margin-top: 20px; margin-bottom: 5px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" />
-</div>
-
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" />
+  <br>
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
   <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
   <a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
