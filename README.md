@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <code>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</code>
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd851-3860-47c5-950f-2b083315df5a.gif" width="300" style="filter: invert(1); opacity: 0.8;" alt="divider" />
 </p>
 
 <div align="center">
