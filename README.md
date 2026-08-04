@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" width="30" height="2" alt="divider" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Light_Blue_Circle.svg" width="300" height="1" style="background-color: white;" alt="divider" />
 </p>
 
 <div align="center">
