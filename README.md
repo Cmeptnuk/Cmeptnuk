@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/48/Light_Blue_Circle.svg" width="300" height="1" style="background-color: white;" alt="divider" />
+  <img src="https://capsule-render.vercel.app/api?type=line&color=ffffff&height=10&section=header" width="300" alt="divider" />
 </p>
 
 <div align="center">
