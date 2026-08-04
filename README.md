@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" alt="Typing Effect" />
 </p>
 
-<hr style="border: none; height: 1px; background: #ffffff; margin: 5px auto 15px auto; width: 30%;" />
+<hr style="border: none; height: 1px; background: #ffffff; margin: 5px auto 15px auto; width: 10%;" />
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
