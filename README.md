@@ -2,8 +2,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" />
 </div>
 
-<div align="center" style="margin-top: 0px; padding-bottom: 50px;">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" style="margin-bottom: 15px" />
 </div>
 
 <div align="center">
