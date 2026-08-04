@@ -1,9 +1,9 @@
-<div align="center" style="margin-bottom: -15px;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" style="margin-bottom: -5px;" />
 </div>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" style="margin-bottom: 15px" />
+<div align="center" style="margin-bottom: 15px;">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" />
 </div>
 
 <div align="center">
