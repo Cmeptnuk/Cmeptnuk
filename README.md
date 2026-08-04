@@ -1,4 +1,3 @@
-<h1 align="center">Cmeptnuk</h1>
 
 <p align="center">
   Frontend Developer & Python Enthusiast
