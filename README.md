@@ -1,10 +1,10 @@
-<div align="center">
+<div align="center" style="margin-bottom: -15px;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" />
 </div>
 
-<p align="center" style="margin-top: -10px; margin-bottom: 15px;">
+<div align="center" style="margin-top: 0px; margin-bottom: 15px;">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=FFFFFF&height=2&section=header" width="350" />
-</p>
+</div>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
