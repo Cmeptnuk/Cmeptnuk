@@ -1,8 +1,10 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Frontend+Engineer+%26+Python+Enthusiast;Building+modern+web+applications" alt="Typing Effect" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3178C6&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+Python+Enthusiast;Building+modern+web+applications" alt="Typing Effect" />
 </p>
 
-###
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="divider" />
+</p>
 
 <div align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
